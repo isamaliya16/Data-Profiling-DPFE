@@ -463,6 +463,6 @@ Special thanks to the following resources and communities that made this project
 
 ---
 
-*Made with ❤️ and ☕ — Last updated: 2025*
+*Made with ❤️ and ☕ — Last updated: 20 March,2026*
 
 </div>
